@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jzsunjzsun
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me jzsun2019@gmail.com
 
 <!---
 jzsunjzsun/jzsunjzsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
