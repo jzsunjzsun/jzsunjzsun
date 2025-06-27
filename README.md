@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jzsunjzsun
-- 👀 I’m interested in AI
+- 👀 I’m interested in Groundwater Modeling
 - 🌱 I’m currently learning python
 - 📫 How to reach me jzsun2019@gmail.com
 
